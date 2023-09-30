@@ -1,0 +1,24 @@
+{
+  "name": "Polskie Elektrownie Jądrowe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "intl-tel-input": "^18.2.1",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artkas03/nuclear_power-station.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artkas03/nuclear_power-station/issues"
+  },
+  "homepage": "https://github.com/artkas03/nuclear_power-station#readme"
+}
